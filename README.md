@@ -1,4 +1,4 @@
-🎉 Grand Winner at SudoThon Hackathon! 🏆
+**🎉 Grand Winner at SudoThon Hackathon! 🏆**
 
 Check out this award-winning project, a JavaScript-based Chat Website! Built entirely with JavaScript (specifically React), this project offers a seamless chat UI experience. Get more insights and details on the development process by visiting the devpost: TranslateText-hlkipwtowrbai5m 😃
 

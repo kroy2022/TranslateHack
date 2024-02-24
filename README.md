@@ -1,6 +1,6 @@
 **🎉 Grand Winner at SudoThon Hackathon! 🏆**
 
-Check out this award-winning project, a JavaScript-based Chat Website! Built entirely with JavaScript (specifically React), this project offers a seamless chat UI experience. Get more insights and details on the development process by visiting [the devpost: TranslateText-hlkipwtowrbai5m](https://gamma.app/docs/TranslateText-hlkipwtowrbai5m?mode=doc) 😃
+Check out this award-winning project, a JavaScript-based Chat Website! Built entirely with JavaScript (specifically React), this project offers a seamless chat UI experience. Get more insights and details on the development process by visiting [Gamma](https://gamma.app/docs/TranslateText-hlkipwtowrbai5m?mode=doc) 😃
 
 ![JS website chat GIF](https://blog.chatengine.io/assets/per-post/nodejs-react-demo.gif)
 
